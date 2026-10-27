@@ -22,6 +22,12 @@ Hi, I'm Mohit (hellfirecoder) 👋<br>I'm a student and developer passionate abo
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hellfirecoder&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+🏆 Hackathon Achievements
+
+* 🥇 1st Place — Cybersecurity Track, TCS Tech Day 2026 | ThreatLens AI
+* 🥇 1st Place — Medical Track, StatusCode 2.0 | Skinsey
+* 🥈 2nd Place — Vultr Track, StatusCode 2.0
+* 🚀 Selected among the Top 50 Teams at HackHeritage 2026, HITK, for the Smart India Hackathon (SIH).
 ---
 [![](https://visitcount.itsvg.in/api?id=hellfirecoder&icon=0&color=0)](https://visitcount.itsvg.in)
 
